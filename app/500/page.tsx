@@ -1,0 +1,3 @@
+import Link from 'next/link';
+const wa='https://wa.me/254112272061?text=Hi%20Joshua%20Jobs%2C%20I%20need%20help%20with%20hiring%20or%20job%20search';
+export default function Error500(){return <section className="container not-found"><div className="error-code">500</div><p className="eyebrow" style={{justifyContent:'center'}}>Something went wrong</p><h1>We are fixing this</h1><p>Please try again in a little while. Your account and application details have not been lost by refreshing this page.</p><div className="not-found-actions"><Link className="button button-primary" href="/">Return home</Link><a className="button button-outline" href={wa} target="_blank" rel="noreferrer">WhatsApp +254112272061</a></div></section>}
