@@ -1,8 +1,10 @@
 # Image credits
 
-All photography used in the Joshua Jobs interface is referenced from Pexels and depicts ordinary workplace, community or profile settings. The website template's original sample photos remain unmodified in `jobentry-1.0.0/` as read-only reference material and are not used in the rendered app.
+The site uses Pexels stock photography only. The selected previews were visually checked: they show ordinary photographed people and workplaces, have no visible watermark, and are not AI-generated illustrations. Images load from Pexels' image CDN.
 
-- Homepage workplace team image: Pexels, photo 3184465, `https://www.pexels.com/photo/people-working-in-a-team-3184465/`.
-- Testimonial portraits: Pexels photos 3769021, 3777943 and 3769027, served from `images.pexels.com`.
+- Homepage construction crew at a daylight worksite: [Pexels image 30674593](https://images.pexels.com/photos/30674593/pexels-photo-30674593/free-photo-of-construction-workers-on-site-in-daylight.jpeg).
+- Community portrait, woman at an East African market: [Pexels image 35348740](https://images.pexels.com/photos/35348740/pexels-photo-35348740/free-photo-of-african-market-vendor-in-vibrant-ugandan-scene.jpeg).
+- Community portrait, Nairobi man: [Pexels image 5928211](https://images.pexels.com/photos/5928211/pexels-photo-5928211.jpeg).
+- Community portrait, Nairobi woman: [Pexels image 1255010](https://images.pexels.com/photos/1255010/pexels-photo-1255010.jpeg).
 
-Images are loaded remotely to avoid redistributing the source files. Pexels images may be replaced with other Pexels-hosted workplace imagery while retaining this credit file.
+The original JobEntry template photos remain untouched in `jobentry-1.0.0/` as read-only reference and are not rendered in the app.
