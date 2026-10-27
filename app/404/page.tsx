@@ -1,0 +1,3 @@
+import Link from 'next/link';
+const wa='https://wa.me/254112272061?text=Hi%20Joshua%20Jobs%2C%20I%20need%20help%20with%20hiring%20or%20job%20search';
+export default function Error404(){return <section className="container not-found"><div className="error-code">404</div><p className="eyebrow" style={{justifyContent:'center'}}>Page not found</p><h1>This page is not here</h1><p>The link may have changed, or the page may no longer be available. Try searching for a job or contact our team.</p><div className="not-found-actions"><Link className="button button-primary" href="/jobs">Search jobs</Link><a className="button button-outline" href={wa} target="_blank" rel="noreferrer">WhatsApp +254112272061</a></div></section>}
